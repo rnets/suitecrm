@@ -1,0 +1,174 @@
+/*Group*/
+#lineItems .group_rn> thead,
+#lineItems .group_rn> thead > tr {
+    width: 100%;
+    display: block;
+}
+
+#lineItems .group_rn > thead > tr > td:nth-of-type(1) {
+    width: 90%;
+    display: inline-block;
+}
+
+#lineItems .group_rn > thead > tr > td:nth-of-type(2) {
+    width: 10%;
+    display: inline-block;
+}
+
+#lineItems .group_rn button {
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    line-height: 0;
+}
+
+#lineItems .group_name_rn {
+     width: 48%;
+     display: inline-block;
+}
+
+#lineItems .group_description_rn {
+    width: 48%;
+    display: inline-block;
+}
+/*Labels Next to Fields*/
+#lineItems  .alignedLabel {
+    display: none;
+    visibility: collapse;
+}
+
+/*Product Lines*/
+#lineItems #product_head_rn > td:nth-of-type(1) {
+    width: 45px;
+}
+
+#lineItems  .product_group_rn {
+}
+
+#lineItems  .product_group_rn  > tbody > tr:nth-of-type(1) > td {
+    padding-bottom: 16px;
+}
+
+#lineItems  .product_group_rn  > tbody > tr:nth-of-type(2) > td {
+    padding-bottom: 16px;
+}
+
+#lineItems .rn_product_qty {
+    width: 40px;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_product_name {
+    width: 98%;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_product_part_number {
+    width: 100%;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_product_part_number_button {
+    margin: 0 15px 0 5px;
+}
+#lineItems .rn_product_list_price {
+    width: 80px;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_product_discount_text {
+    width: 80px;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_product_discount_amount_select {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    visibility: hidden;
+    width: 0px;
+}
+#lineItems .rn_product_unit_price {
+    width: 80px;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_product_vat_amt_text {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    visibility: hidden;
+    width: 0px;
+}
+#lineItems .rn_product_vat_amt_select {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    visibility: hidden;
+    width: 0px;
+}
+#lineItems .rn_product_total_price {
+    width: 80px;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_product_delete_line {
+    margin: 0 15px 0 5px;
+}
+
+#lineItems .rn_product_item_description_label {
+    display: block;
+}
+
+#lineItems .rn_product_item_description {
+    height: 50px;
+}
+
+#lineItems .rn_product_description_label {
+    display: block;
+}
+
+#lineItems .rn_product_description {
+    height: 50px;
+}
+
+/*Service Lines*/
+#lineItems  #service_head td {
+    padding: 32px 0 8px 0;
+}
+
+#lineItems  .service_group_rn  > tbody > tr > td {
+    padding-bottom: 16px;
+}
+
+
+#lineItems .service_group_rn {
+    width: 1000px;
+}
+
+#lineItems .rn_service_name {
+    width: 100px;
+    height: 50px;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_service_list_price {
+    width: 80px;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_service_discount_text {
+    width: 80px;
+    margin: 0 5px 0 0;
+
+}
+#lineItems .rn_service_discount_select {
+    margin: 0 5px 0 0;
+    visibility: hidden;
+}
+#lineItems .rn_service_unit_price {
+    width: 80px;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_service_vat_text {
+    width: 80px;
+}
+#lineItems .rn_service_vat_select {
+    margin: 0 5px 0 5px;
+}
+#lineItems .rn_service_total_price {
+    width: 80px;
+    margin: 0 5px 0 0;
+}
+#lineItems .rn_service_delete_line {
+    margin: 0 5px 0 0;
+}
+

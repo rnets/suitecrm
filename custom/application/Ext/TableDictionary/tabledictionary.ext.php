@@ -1,0 +1,14 @@
+<?php 
+ //WARNING: The contents of this file are auto-generated
+
+ 
+ //WARNING: The contents of this file are auto-generated
+include('custom/metadata/accounts_opportunities_1MetaData.php');
+
+
+ 
+ //WARNING: The contents of this file are auto-generated
+include('custom/metadata/ivt_inventory_aos_productsMetaData.php');
+
+
+?>
